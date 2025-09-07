@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- Profile README for @yns0x -->
 
-<!--
-**YounesProjects/YounesProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner (replace with your own if desired) -->
+<p align="center">
+  <img src="<!-- replace: YOUR_BANNER_IMAGE_URL -->" alt="Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Younes Neche</h1>
+<h3 align="center">Computer Science Student</h3>
+<p align="center"><i>"Every problem has its solution, but not everyone seeks it."</i></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 About Me
+- 🎓 Currently studying **Computer Science (BUT Informatique)**  
+- 🐍 Exploring the world of **Python** (and beyond 👀)  
+- 🤝 Open to learning, collaborating, and contributing to projects  
+- 😄 Friendly, formal… with a twist of humor  
+- 🎧 I code better with music (Spotify integration below 🎶)
+
+---
+
+### 🛠️ Skills
+> Always growing — here’s what I’m diving into:
+- **Programming:** Python  
+- **Interests:** Software development, problem solving, open source  
+- **Future Goals:** Learn web dev frameworks, databases, and DevOps tools  
+
+---
+
+### 📚 Education
+- **B.U.T. Computer Science** – Université Paris Cité  
+- *First year student, always curious to solve problems the CS way*
+
+---
+
+### 📊 GitHub & Activity
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yns0x&show_icons=true&theme=tokyonight" alt="GitHub stats" /><br/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns0x&layout=compact&theme=tokyonight" alt="Top languages" /><br/>
+  
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yns0x&theme=tokyonight" alt="GitHub streaks" /><br/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yns0x&theme=tokyo-night" alt="Activity graph" />
+</p>
+
+---
+
+### 🎶 Now Playing on Spotify
+<p align="center">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&redirect=true)
+</p>
+
+---
+
+### 🌍 Visitors & CI
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=yns0x&color=blueviolet&style=flat-square" alt="Profile views" />
+  
+  <!-- GitHub Actions Badge (CI placeholder) -->
+  <img src="https://github.com/yns0x/yns0x/actions/workflows/ci.yml/badge.svg" alt="CI status" />
+  
+  <!-- Sponsor Button -->
+  <a href="https://github.com/sponsors/yns0x"><img src="https://img.shields.io/badge/Sponsor-💖-pink?style=flat-square" alt="Sponsor me" /></a>
+</p>
+
+---
+
+### 📬 Contact
+<p align="center">
+  <a href="mailto:younes.neche@etu.u-paris.fr">📧 Email</a> • 
+  <a href="https://www.instagram.com/ynsontop">📷 Instagram</a> • 
+  Discord: **theonlyyouns**
+</p>
+
+---
+
+💡 *This README is a work in progress — just like my coding journey!*
