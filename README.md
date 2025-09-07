@@ -53,7 +53,7 @@
 
 ### 🎶 Now Playing on Spotify
 <p align="center">
-[spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </p>
 
 ---
