@@ -2,7 +2,7 @@
 
 <!-- Banner (replace with your own if desired) -->
 <p align="center">
-  <img src="<!-- replace: YOUR_BANNER_IMAGE_URL -->" alt="Banner" width="100%" />
+  <img src="https://media1.tenor.com/m/vSOwKWQ7CJMAAAAC/kcorp-kisuke.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Younes Neche</h1>
@@ -13,7 +13,7 @@
 
 ### 🌌 About Me
 - 🎓 Currently studying **Computer Science (BUT Informatique)**  
-- 🐍 Exploring the world of **Python** (and beyond 👀)  
+- 🐍 Exploring the world of **Python + Lua** (and more)  
 - 🤝 Open to learning, collaborating, and contributing to projects  
 - 😄 Friendly, formal… with a twist of humor  
 - 🎧 I code better with music (Spotify integration below 🎶)
@@ -22,14 +22,14 @@
 
 ### 🛠️ Skills
 > Always growing — here’s what I’m diving into:
-- **Programming:** Python  
+- **Programming:** Python, Lua, Js, ...  
 - **Interests:** Software development, problem solving, open source  
-- **Future Goals:** Learn web dev frameworks, databases, and DevOps tools  
+- **Future Goals:** Learn web dev frameworks, databases, C and DevOps tools  
 
 ---
 
 ### 📚 Education
-- **B.U.T. Computer Science** – Université Paris Cité  
+- **B.U.T. Computer Science** – IUT Rives de Seine  
 - *First year student, always curious to solve problems the CS way*
 
 ---
@@ -53,21 +53,15 @@
 
 ### 🎶 Now Playing on Spotify
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31h5ammiy6qusgkirk5ix6alb67y&redirect=true)
 </p>
 
 ---
 
-### 🌍 Visitors & CI
+### 🌍 Visitors
 <p align="center">
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=yns0x&color=blueviolet&style=flat-square" alt="Profile views" />
-  
-  <!-- GitHub Actions Badge (CI placeholder) -->
-  <img src="https://github.com/yns0x/yns0x/actions/workflows/ci.yml/badge.svg" alt="CI status" />
-  
-  <!-- Sponsor Button -->
-  <a href="https://github.com/sponsors/yns0x"><img src="https://img.shields.io/badge/Sponsor-💖-pink?style=flat-square" alt="Sponsor me" /></a>
 </p>
 
 ---
@@ -76,7 +70,7 @@
 <p align="center">
   <a href="mailto:younes.neche@etu.u-paris.fr">📧 Email</a> • 
   <a href="https://www.instagram.com/ynsontop">📷 Instagram</a> • 
-  Discord: **theonlyyouns**
+  Discord: theonlyyouns
 </p>
 
 ---
