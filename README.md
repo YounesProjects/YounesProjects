@@ -2,7 +2,7 @@
 
 <!-- Banner (replace with your own if desired) -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/vSOwKWQ7CJMAAAAC/kcorp-kisuke.gif" alt="Banner" width="100%" />
+  <img src="https://media1.tenor.com/m/1j_NceGoVqEAAAAC/banner-cakal-banner.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Younes Neche</h1>
