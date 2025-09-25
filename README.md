@@ -37,13 +37,13 @@
 ### 📊 GitHub & Activity
 <p>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yns0x&show_icons=true&theme=tokyonight" alt="GitHub stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YounesProjects&show_icons=true&theme=tokyonight" alt="GitHub stats" /><br/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yns0x&layout=compact&theme=tokyonight" alt="Top languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesProjects&layout=compact&theme=tokyonight" alt="Top languages" /><br/>
   
   <!-- Streaks -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yns0x&theme=tokyonight" alt="GitHub streaks" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YounesProjects&theme=tokyonight" alt="GitHub streaks" /><br/>
   
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YounesProjects&theme=tokyo-night" alt="Activity graph" />
@@ -61,7 +61,7 @@
 ### 🌍 Visitors
 <p align="center">
   <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yns0x&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YounesProjects&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 ---
