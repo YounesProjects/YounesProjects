@@ -46,7 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yns0x&theme=tokyonight" alt="GitHub streaks" /><br/>
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yns0x&theme=tokyo-night" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YounesProjects&theme=tokyo-night" alt="Activity graph" />
 </p>
 
 ---
