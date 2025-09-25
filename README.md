@@ -2,7 +2,7 @@
 
 <!-- Banner (replace with your own if desired) -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/u5puiuZ2Ss0AAAAd/ichigo-i-wonder.gif" alt="Banner" width="100%" />
+  <img src="https://c.tenor.com/u5puiuZ2Ss0AAAAd/tenor.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Younes Neche</h1>
